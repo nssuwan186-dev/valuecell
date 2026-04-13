@@ -16,17 +16,17 @@ dependencies = [
     "uvicorn>=0.24.0",
     "a2a-sdk[http-server]>=0.3.4",
     "yfinance>=0.2.65",
-    "requests>=2.32.5",
+    "requests>=2.33.0",
     "akshare>=1.17.44",
     "agno[openai, google, lancedb]>=2.0,<3.0",
     "edgartools>=4.12.2",
     "sqlalchemy>=2.0.43",
     "aiosqlite>=0.19.0",
-    "unstructured>=0.18.15",
+    "unstructured>=0.18.18",
     "markdown>=3.9",
     "loguru>=0.7.3",
     "aiofiles>=24.1.0",
-    "crawl4ai>=0.7.4",
+    "crawl4ai>=0.8.0",
 ]
 
 [project.optional-dependencies]
